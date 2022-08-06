@@ -1,4 +1,4 @@
-### Hi 👋, my name is Gabriel, I'm a Fullstack Developer 
+## Hi 👋, my name is Gabriel, I'm a Fullstack Developer 
 <!--
 **gabrielrochasouza/gabrielrochasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <ul>
   <li> <a href="https://github.com/gabrielrochasouza/Proworking-capstone">Proworking</a> </li>
   <li> <a href="https://github.com/gabrielrochasouza/capstone-m4-api-music-club-shop">Music Club Shop</a> </li>
-  <li> <a href="https://hamburgueria-typescript-one.vercel.app/">Kenzie Burger</a> </li>
-  <li> <a href="https://gabrielrochasouza.github.io/flappy-bird-js/">Flappy Bird</a> </li>
+  <li> <a href="https://github.com/gabrielrochasouza/hamburgueria">Kenzie Burger</a> </li>
+  <li> <a href="https://github.com/gabrielrochasouza/flappy-bird-js/">Flappy Bird</a> </li>
   <li> <a href="https://github.com/gabrielrochasouza/TetrisJs">Tetris</a> </li>
-  <li> <a href="https://twitter-watcher.vercel.app/">Twitter Watcher</a> </li>
+  <li> <a href="https://github.com/gabrielrochasouza/twitter-watcher">Twitter Watcher</a> </li>
   <li> <a href="https://github.com/gabrielrochasouza/Kenziehub">KenzieHub</a> </li>
   <li> <a href="https://github.com/gabrielrochasouza/Nu-Kenzie">Nukenzie</a> </li>
 </ul>
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-angular-092E20?logo=angular&logoColor=white&style=for-the-badge" />
 </div>
 
 
