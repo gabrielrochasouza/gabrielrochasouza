@@ -26,32 +26,41 @@ Here are some ideas to get you started:
 
 ### Main tools and technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo"  />
+## Hardskills
+<div align="center">
+  <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" />	
+  <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-reactjs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-typescrypt-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-styled components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-nodejs-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-jwt-000000?logo=JSON Web Tokens&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-typeorm-FE0902?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" />
 </div>
 
 
+## Tools
 
-## **Linguagens e Ferramentas:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<div align="center">
+  <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
+</div>
 
 
 <!--
