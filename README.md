@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-angular-092E20?logo=angular&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-angular-000000?logo=angular&logoColor=white&style=for-the-badge" />
 </div>
 
 
