@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 <a href = "mailto:grsouza@id.uff.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-### Main tools and technologies
+## Main tools and technologies
 
-## Hardskills
+### Hardskills
+
 <div align="center">
   <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" />	
   <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## Tools
+### Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
@@ -66,7 +67,7 @@ Here are some ideas to get you started:
 <!--
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div align="center" style="margin:30px 0 0">
   <a href="https://github.com/gabrielrochasouza">
   <img width='48%' height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrochasouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  width='48%' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochasouza&layout=compact&langs_count=7&theme=dracula"/>
