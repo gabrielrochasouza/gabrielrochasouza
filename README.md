@@ -1,9 +1,17 @@
-### Hi 👋, my name is Gabriel 
+### Hi 👋, my name is Gabriel, I'm a Fullstack Developer 
 <!--
 **gabrielrochasouza/gabrielrochasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+### Main Soft Skills
+
+- Proactive;
+- Adaptability to new technologies;
+- Always willing to learn new things;
+- Curious
+
+
 ### My main Projects
 
 <ul>
@@ -63,13 +71,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
 </div>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <!--
 - ⚡ Fun fact: ...
 -->
 <div align="center" style="margin:30px 0 0">
   <a href="https://github.com/gabrielrochasouza">
-  <img width='48%' height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrochasouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width='48%' height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrochasouza&show_icons=true&include_all_commits=true&count_private=true"/>
   <img  width='48%' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochasouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
