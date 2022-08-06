@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - Proactive;
 - Adaptability to new technologies;
 - Always willing to learn new things;
-- Curious
+- I'm always curious, I like to learn how things work.
 
 
 ### My main Projects
@@ -79,10 +79,10 @@ Here are some ideas to get you started:
 <!--
 - ⚡ Fun fact: ...
 -->
-<div align="center" style="margin:30px 0 0">
+<div align="center">
   <a href="https://github.com/gabrielrochasouza">
   <img width='48%' height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrochasouza&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img  width='48%' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochasouza&layout=compact&langs_count=7&theme=dracula"/>
+  <img  width='48%' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochasouza&layout=compact&langs_count=7"/>
 </div>
   
   ![Snake animation](https://github.com/gabrielrochasouza/gabrielrochasouza/blob/output/github-contribution-grid-snake.svg)
