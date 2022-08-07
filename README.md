@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Main tools and technologies
 
-### Hardskills
+### Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" />	
