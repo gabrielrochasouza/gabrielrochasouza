@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 ### My main Projects
 
 <ul>
-  <li> <a href="https://github.com/gabrielrochasouza/Proworking-capstone">Proworking (Fullstack project React)</a> </li>
-  <li> <a href="https://github.com/gabrielrochasouza/capstone-m4-api-music-club-shop">Music Club Shop (Backend project Api Node Express Typescript)</a> </li>
-  <li> <a href="https://github.com/gabrielrochasouza/hamburgueria">Kenzie Burger (React + Typescript)</a> </li>
-  <li> <a href="https://github.com/gabrielrochasouza/flappy-bird-js/">Flappy Bird (Javascript Vanilla)</a> </li>
-  <li> <a href="https://github.com/gabrielrochasouza/TetrisJs">Tetris (Javascript Vanilla)</a> </li>
-  <li> <a href="https://github.com/gabrielrochasouza/twitter-watcher">Twitter Watcher (Angular)</a> </li>
-  <li> <a href="https://github.com/gabrielrochasouza/Kenziehub">KenzieHub (React)</a> </li>
-  <li> <a href="https://github.com/gabrielrochasouza/Nu-Kenzie">Nukenzie (React)</a> </li>
+  <li> <a href="https://github.com/gabrielrochasouza/Proworking-capstone">Proworking </a>(Fullstack project React) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/capstone-m4-api-music-club-shop">Music Club Shop</a>(Backend project Api Node Express Typescript) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/hamburgueria">Kenzie Burger </a>(React + Typescript) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/flappy-bird-js/">Flappy Bird </a>(Javascript Vanilla) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/TetrisJs">Tetris </a>(Javascript Vanilla) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/twitter-watcher">Twitter Watcher </a>(Angular) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/Kenziehub">KenzieHub </a>(React) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/Nu-Kenzie">Nukenzie </a>(React) </li>
 </ul>
 
 
