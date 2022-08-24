@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li> <a href="https://github.com/gabrielrochasouza/Proworking-capstone">Proworking </a>(Fullstack project React) </li>
-  <li> <a href="https://github.com/gabrielrochasouza/capstone-m4-api-music-club-shop">Music Club Shop</a>(Backend project Api Node Express Typescript) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/capstone-m4-api-music-club-shop">Music Club Shop </a>(Backend project Api Node Express Typescript) </li>
   <li> <a href="https://github.com/gabrielrochasouza/hamburgueria">Kenzie Burger </a>(React + Typescript) </li>
   <li> <a href="https://github.com/gabrielrochasouza/flappy-bird-js/">Flappy Bird </a>(Javascript Vanilla) </li>
   <li> <a href="https://github.com/gabrielrochasouza/TetrisJs">Tetris </a>(Javascript Vanilla) </li>
