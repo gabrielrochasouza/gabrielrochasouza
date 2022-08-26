@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <li> <a href="https://github.com/gabrielrochasouza/twitter-watcher">Twitter Watcher </a>(Angular) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Kenziehub">KenzieHub </a>(React) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Nu-Kenzie">Nukenzie </a>(React) </li>
+  <li> <a href="https://github.com/KA-19-Motors-Shop/clinika">Clinika </a>(Python Django rest framework) </li>
 </ul>
 
 
