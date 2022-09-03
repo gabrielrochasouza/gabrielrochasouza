@@ -24,6 +24,9 @@ Here are some ideas to get you started:
   <li> <a href="https://github.com/gabrielrochasouza/Kenziehub">KenzieHub </a>(React) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Nu-Kenzie">Nukenzie </a>(React) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Capstone-M5">Clinika </a>(API Python Django rest framework) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/mks-front-end-challenge">Mks-front-end challenge</a> Next js + Redux toolkit </li>
+  <li> <a href="https://github.com/gabrielrochasouza/you-tube-downloader">You tube downloader</a> Python django</li>
+  
 </ul>
 
 
