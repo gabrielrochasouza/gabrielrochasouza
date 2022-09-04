@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <li> <a href="https://github.com/gabrielrochasouza/hamburgueria">Kenzie Burger </a>(React + Typescript) </li>
   <li> <a href="https://github.com/gabrielrochasouza/flappy-bird-js/">Flappy Bird </a>(Javascript Vanilla) </li>
   <li> <a href="https://github.com/gabrielrochasouza/TetrisJs">Tetris </a>(Javascript Vanilla) </li>
-  <li> <a href="https://github.com/gabrielrochasouza/twitter-watcher">Twitter Watcher </a>(Angular) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/twitter-watcher">Twitter Watcher </a>(Angular + Angular material + Redux) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Kenziehub">KenzieHub </a>(React) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Nu-Kenzie">Nukenzie </a>(React) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Capstone-M5">Clinika </a>(API Python Django rest framework) </li>
