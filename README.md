@@ -22,13 +22,13 @@ Here are some ideas to get you started:
   <li> <a href="https://github.com/gabrielrochasouza/Jogo-da-velha-feito-com-JS">Jogo da Velha com AI </a>(Javascript Vanilla) </li>
   <li> <a href="https://github.com/gabrielrochasouza/TetrisJs">Tetris </a>(Javascript Vanilla) </li>
   <li> <a href="https://github.com/gabrielrochasouza/twitter-watcher">Twitter Watcher </a>(Angular + Angular material + Redux) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/expenses-watcher">Expenses Watcher</a> (Vue js 2, vuex, vuetify, nuxt)</li>
+  <li> <a href="https://github.com/gabrielrochasouza/mks-front-end-challenge">Mks-front-end challenge</a> (Next js + Redux toolkit) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Kenziehub">KenzieHub </a>(React) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Nu-Kenzie">Nukenzie </a>(React) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Capstone-M5">Clinika </a>(API Python Django rest framework) </li>
   <li> <a href="https://github.com/gabrielrochasouza/clinika">Clinika Front end </a> (React + Context api) </li>
-  <li> <a href="https://github.com/gabrielrochasouza/mks-front-end-challenge">Mks-front-end challenge</a> (Next js + Redux toolkit) </li>
   <li> <a href="https://github.com/gabrielrochasouza/you-tube-downloader">You tube downloader</a> (Python django)</li>
-  <li> <a href="https://github.com/gabrielrochasouza/expenses-watcher">Expenses Watcher</a> (Vue js 2, vuex, vuetify, nuxt)</li>
   
 </ul>
 
