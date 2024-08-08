@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 ### My main Projects
 
 <ul>
+  <li> <a href="https://github.com/gabrielrochasouza/chess-game-front-end">Chess Game Front End </a>(Fullstack project) </li>
+  <li> <a href="https://github.com/gabrielrochasouza/chess-game-back-end">Chess Game Back End </a>(Fullstack project) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Proworking-capstone">Proworking </a>(Fullstack project React) </li>
   <li> <a href="https://github.com/gabrielrochasouza/capstone-m4-api-music-club-shop">Music Club Shop </a>(Backend project Api Node Express Typescript) </li>
   <li> <a href="https://github.com/gabrielrochasouza/hamburgueria">Kenzie Burger </a>(React + Typescript) </li>
   <li> <a href="https://github.com/gabrielrochasouza/flappy-bird-js/">Flappy Bird </a>(Javascript Vanilla) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Jogo-da-velha-feito-com-JS">Jogo da Velha com AI </a>(Javascript Vanilla) </li>
   <li> <a href="https://github.com/gabrielrochasouza/TetrisJs">Tetris </a>(Javascript Vanilla) </li>
-  <li> <a href="https://github.com/gabrielrochasouza/twitter-watcher">Twitter Watcher </a>(Angular + Angular material + Redux) </li>
   <li> <a href="https://github.com/gabrielrochasouza/expenses-watcher">Expenses Watcher</a> (Vue js 2, vuex, vuetify, nuxt)</li>
-  <li> <a href="https://github.com/gabrielrochasouza/mks-front-end-challenge">Mks-front-end challenge</a> (Next js + Redux toolkit) </li>
-  <li> <a href="https://github.com/gabrielrochasouza/Kenziehub">KenzieHub </a>(React) </li>
-  <li> <a href="https://github.com/gabrielrochasouza/Nu-Kenzie">Nukenzie </a>(React) </li>
   <li> <a href="https://github.com/gabrielrochasouza/Capstone-M5">Clinika Back end </a>(API Python Django rest framework) </li>
   <li> <a href="https://github.com/gabrielrochasouza/clinika">Clinika Front end </a> (React + Context api) </li>
   <li> <a href="https://github.com/gabrielrochasouza/you-tube-downloader">You tube downloader</a> (Python django)</li>
